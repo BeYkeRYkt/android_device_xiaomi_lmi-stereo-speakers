@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
+id=k30produalspeakers
+name=Redmi K30 Pro dual speakers
+version=v1
+versionCode=1
+author=beykerykt
 description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
