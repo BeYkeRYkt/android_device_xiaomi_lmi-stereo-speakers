@@ -654,8 +654,12 @@
         <path name="compress-offload-playback9 speaker" />
     </path>
 
+    <path name="spkr-rx-calib">
+        <ctl name="PRI_MI2S_RX_DL_HL Switch" value="1" />
+    </path>
+
     <path name="spkr-vi-record">
-	<ctl name="PRI_MI2S_RX_VI_FB_MUX" value="PRI_MI2S_TX" />
+        <ctl name="PRI_MI2S_RX_VI_FB_MUX" value="PRI_MI2S_TX" />
     </path>
 
     <path name="echo-reference speaker">
